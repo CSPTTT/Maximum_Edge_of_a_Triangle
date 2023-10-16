@@ -1,1 +1,1 @@
-print ("Hi, World!")
+name = input()
